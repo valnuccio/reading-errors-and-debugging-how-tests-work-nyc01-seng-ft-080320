@@ -1,3 +1,3 @@
-first_number=l
+first_number= 1
 
 # Add your variables here
